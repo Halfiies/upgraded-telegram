@@ -11,4 +11,9 @@ git commit -m "meaningful message to track dev changes"
 
 ## branching
 
-git checkout -b (branch name)
+git checkout -b (branch name) 
+-b creates branch 
+checkout moves to the branch
+
+git push origin (branch name)
+
