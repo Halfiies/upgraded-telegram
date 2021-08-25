@@ -17,5 +17,3 @@ checkout moves to the branch
 
 git push origin (branch name)
 
-git branch -a shows all branches
-
